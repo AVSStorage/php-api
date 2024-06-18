@@ -1,0 +1,10 @@
+{
+    "name": "avslogin/anketa",
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "controllers/",
+            "Models\\": "models/"
+        }
+    },
+    "require": {}
+}
